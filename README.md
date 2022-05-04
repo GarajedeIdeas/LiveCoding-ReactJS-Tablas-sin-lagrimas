@@ -1,7 +1,6 @@
 # ReactJS Tablas sin lágrimas
 
-Evento [Garaje Live Coding](https://livecoding.garajedeideas.com/)
-con [Gerardo Fernández](https://www.linkedin.com/in/gerardofernandezmoreno).
+Evento [Garaje Live Coding](https://livecoding.garajedeideas.com/) con [Gerardo Fernández](https://www.linkedin.com/in/gerardofernandezmoreno).
 
 ### Grabación
 
